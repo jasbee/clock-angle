@@ -1,3 +1,3 @@
 # clock-angle
 
-Takes in a time from the user and calculates the angle the hands of the clock will be from each other. (written in python 3)
+Function that takes in an hour and a minute input and finds the angle between the two hands of a clock. (Written in python 3)
